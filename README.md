@@ -2,8 +2,8 @@
 # GNN for Plate-with-a-Hole Stress Prediction
 
 <img width="1800" height="650" alt="plate_1_vonmises_compare_shared" src="https://github.com/user-attachments/assets/2995da11-0620-4622-84ba-1d55fbd411cb" />
-<img width="1800" height="650" alt="plate_1_vonmises_compare_shared" src="https://github.com/user-attachments/assets/2995da11-0620-4622-84ba-1d55fbd411cb" />
-<img width="1800" height="650" alt="plate_1_vonmises_compare_shared" src="https://github.com/user-attachments/assets/2995da11-0620-4622-84ba-1d55fbd411cb" />
+<img width="1800" height="650" alt="plate_1_vonmises_compare_shared" src="https://github.com/girigkulkarni/Plate_with_a_hole_GNN/blob/master/Support_images/RMSe_for%20_test.png" />
+<img width="1800" height="650" alt="plate_1_vonmises_compare_shared" src="https://github.com/girigkulkarni/Plate_with_a_hole_GNN/blob/master/Support_images/test_performance.png" />
 
 
 Graph Neural Network (GNN) project for surrogate modeling of finite element simulations of a plate with a hole. The goal is to predict structural response fields such as stress and displacement directly on the mesh, reducing the cost of repeated high-fidelity FEA runs.
